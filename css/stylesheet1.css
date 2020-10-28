@@ -53,6 +53,7 @@ header{
 }
 #special-p {
   padding: 1vw;
+  font-size: 16px;
 }
 
 .logo-container{
@@ -207,4 +208,9 @@ table{
 }
 .liste{
   font-family: 'Calibri';
+}
+footer{
+  background-color: #00ABBC;
+  width: 90%;
+  margin: auto;
 }
